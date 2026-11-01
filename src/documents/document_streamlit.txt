@@ -1,0 +1,27 @@
+RÈGLEMENT GÉNÉRAL SUR LA PROTECTION DES DONNÉES (RGPD)
+
+Article 32 — Sécurité du traitement
+
+Compte tenu de l'état des connaissances, des coûts de mise en œuvre
+et de la nature, de la portée, du contexte et des finalités du traitement
+ainsi que des risques, dont le degré de probabilité et de gravité varie,
+pour les droits et libertés des personnes physiques, le responsable
+du traitement et le sous-traitant mettent en œuvre les mesures
+techniques et organisationnelles appropriées afin de garantir
+un niveau de sécurité adapté au risque.
+
+Ces mesures peuvent comprendre notamment :
+
+a) la pseudonymisation et le chiffrement des données à caractère personnel ;
+
+b) des moyens permettant de garantir la confidentialité, l'intégrité,
+la disponibilité et la résilience constantes des systèmes et des services
+de traitement ;
+
+c) des moyens permettant de rétablir la disponibilité des données
+à caractère personnel et l'accès à celles-ci dans des délais appropriés
+en cas d'incident physique ou technique ;
+
+d) une procédure visant à tester, à analyser et à évaluer régulièrement
+l'efficacité des mesures techniques et organisationnelles pour assurer
+la sécurité du traitement.

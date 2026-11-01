@@ -1,0 +1,33 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+
+# Dépendances
+node_modules/
+.venv/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Sauvegardes
+app_avant_fil_veille.py
+app_sauvegarde.py
+app_sauvegarde_avant_chatbot.py
+fil_veille_sauvegarde.py
+
+# Dossier de livraison
+LIVRAISON_TP4/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Sauvegardes des résultats
+src/resultats_sauvegarde/
+
+# Fichiers de test locaux
+test_cnil.cjs
+src/test_notion.ts

@@ -1,0 +1,32 @@
+{
+  "169092fr": {
+    "titre": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+    "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+    "empreinte_publication": "5f341f625a48baccf2a5658e87ac51ac57208291185d72d0a37c660194f948e9",
+    "date_analyse": "2026-10-29T21:31:22.482198+00:00",
+    "source_analyse": "Article CNIL complet (extraction de la zone main)",
+    "taille_texte_article": 4900,
+    "statut_validation": "À vérifier par un humain",
+    "analyse": {
+      "pertinence_grc": "Élevée",
+      "resume": "La CNIL a infligé une amende de 7 millions d’euros à FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT pour non-respect des règles sur les traceurs (cookies) dans leur application mobile. La décision est basée sur la collecte non-consentie d’informations d’utilisateurs, notamment leur historique de navigation, pour des recommandations de produits. Une injonction est également prononcée pour obtenir le consentement nécessaire.",
+      "references_juridiques": [
+        "Délibération SAN-2026-015 du 22 octobre 2026 - Légifrance",
+        "Article 82 de la loi Informatique et Libertés (règles pour les cookies et autres traceurs)"
+      ],
+      "impacts_potentiels": [
+        "Amende financière importante",
+        "Requête d’obtention de consentement",
+        "Impact sur la réputation de l’entreprise",
+        "Possibilité d’autres sanctions futures"
+      ],
+      "mesures_recommandees": [
+        "Obtenir le consentement explicite des utilisateurs",
+        "Mettre à jour les politiques de confidentialité",
+        "Conduire une revue des pratiques de collecte de données",
+        "Former le personnel sur les obligations en matière de protection des données"
+      ],
+      "limites": "Cette décision est basée sur une plainte déposée par l’association NOYB et ne représente pas une obligation générale. Les mesures recommandées ne sont pas des obligations validées par la loi."
+    }
+  }
+}

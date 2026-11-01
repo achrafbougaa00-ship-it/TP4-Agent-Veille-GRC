@@ -1,0 +1,21 @@
+{
+  "obligations": [
+    {
+      "id": "OBL-001",
+      "reference": "RGPD - Article 32",
+      "description": "Le responsable du traitement et le sous-traitant mettent en œuvre des mesures techniques et organisationnelles appropriées pour garantir un niveau de sécurité adapté au risque.",
+      "mesures": [
+        "pseudonymisation et chiffrement des données à caractère personnel",
+        "garantir la confidentialité, l'intégrité, la disponibilité et la résilience constantes des systèmes et services de traitement",
+        "rétablir la disponibilité des données et l'accès à celles-ci en cas d'incident",
+        "test, analyse et évaluation régulière des mesures techniques et organisationnelles"
+      ],
+      "risques": [
+        "manque de sécurité suffisante des données",
+        "incident de sécurité non répondu à temps",
+        "non-respect des droits et libertés des personnes physiques",
+        "absence de procédure de test et d'évaluation régulière des mesures de sécurité"
+      ]
+    }
+  ]
+}

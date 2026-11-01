@@ -1,0 +1,121 @@
+{
+  "date_execution": "2026-10-29T11:09:11.368Z",
+  "source": "CNIL",
+  "url_source": "https://www.cnil.fr/fr/rss.xml",
+  "nombre_publications": 10,
+  "nouvelles": 0,
+  "modifiees": 0,
+  "inchangees": 10,
+  "publications": [
+    {
+      "id": "169092fr",
+      "organisme": "CNIL",
+      "titre": "Cookies et application mobile : sanctions de 7 millions d’euros à l’encontre des sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT",
+      "url": "https://www.cnil.fr/fr/sanction-cookies-app-fnac",
+      "description": "Le 22 octobre 2026, la CNIL a sanctionné les sociétés FNAC DARTY PARTICIPATIONS ET SERVICES et FNAC DIRECT d’une amende de 7&amp;nbsp;millions d’euros pour non-respect des règles applicables en matière de traceurs (cookies).",
+      "date_publication": "Thu, 29 Oct 2026 13:00:00 +0100",
+      "date_collecte": "2026-10-29T11:09:11.365Z",
+      "statut": "INCHANGE",
+      "empreinte": "5f341f625a48baccf2a5658e87ac51ac57208291185d72d0a37c660194f948e9"
+    },
+    {
+      "id": "169086fr",
+      "organisme": "CNIL",
+      "titre": "Ordre du jour de la séance plénière du 22 octobre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-22-octobre-2026",
+      "description": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 22 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "date_publication": "Thu, 22 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "4c1d9ebe467e027c04ec36c77a1a74087ba88daaf40bb70d5819ce395a707d65"
+    },
+    {
+      "id": "169077fr",
+      "organisme": "CNIL",
+      "titre": "Journée RGPD à Poitiers : cybersécurité, IA et conformité au cœur des enjeux de protection des données",
+      "url": "https://www.cnil.fr/fr/journee-rgpd-2026-poitiers",
+      "description": "La CNIL organise une nouvelle Journée RGPD à Poitiers le 1er décembre 2026. Cet évènement sera l’occasion d’échanger avec les acteurs du territoire sur les actualités en matière de protection des données personnelles et les enjeux concrets auxquels sont confrontés les professionnels.",
+      "date_publication": "Tue, 20 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "9698ad60ae3d224facc72b2e7bac22c330a21c0ce8f8e73a74750ddd01d1b82d"
+    },
+    {
+      "id": "169071fr",
+      "organisme": "CNIL",
+      "titre": "Revoir le webinaire - Nouveau régime de la prospection téléphonique : comment et quand recueillir le consentement de la personne concernée ?",
+      "url": "https://www.cnil.fr/fr/webinaire-demarchage-telephonique",
+      "description": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers&amp;nbsp;une série de webinaires. Retrouvez ce nouvel épisode consacré à la prospection téléphonique.",
+      "date_publication": "Mon, 19 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "c71ee5c2509f3d2d1ac1cf7b430cc09aa679c46bbde38df88fc3d3608a8970e2"
+    },
+    {
+      "id": "169011fr",
+      "organisme": "CNIL",
+      "titre": "De la protection des données à la création de valeur en finance : des autorités européennes publient une étude et des bonnes pratiques",
+      "url": "https://www.cnil.fr/fr/protection-donnees-valeur-finance-etude-autorites-europeennes",
+      "description": "La CNIL, l’ICO et la CNPD publient leur étude conjointe «&amp;nbsp;De la protection des données à la création de valeur en finance&amp;nbsp;: évaluation des données, comptabilité, fusions-acquisitions et gouvernance&amp;nbsp;», rassemblant analyses et bonnes pratiques à destination des entreprises et des acteurs financiers.",
+      "date_publication": "Fri, 16 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "34ab3f864657eb37f710088340156b9bea6ab19adfcc813edce6ccfddc61d6b8"
+    },
+    {
+      "id": "169044fr",
+      "organisme": "CNIL",
+      "titre": "Reconstitution d’adresses électroniques professionnelles : dans quel cadre est-ce autorisé ?",
+      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-quel-cadre",
+      "description": "La reconstitution d’adresses électroniques professionnelles à partir de données accessibles en ligne est utilisée pour contacter des interlocuteurs, notamment dans le cadre de la prospection. Elle est encadrée par le RGPD et ne peut reposer sur l’intérêt légitime que si certaines conditions sont remplies.",
+      "date_publication": "Fri, 16 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "3d29f21addedca4fae7c14f804071281657a33f12028e736af263cd48c641f4c"
+    },
+    {
+      "id": "169047fr",
+      "organisme": "CNIL",
+      "titre": "Reconstitution d’adresses électroniques professionnelles : quels sont vos droits ?",
+      "url": "https://www.cnil.fr/fr/reconstitution-adresses-professionnelles-vos-droits",
+      "description": "Lorsque vos données personnelles sont accessibles sur Internet, elles peuvent être récupérées par des organismes pour reconstituer votre adresse électronique professionnelle, notamment pour faire de la prospection. La reconstitution d’adresse électronique doit respecter le RGPD afin d’être légale. La CNIL fait le point sur vos droits.",
+      "date_publication": "Fri, 16 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "f0b500a700cbdb3c41b389b179b9c3094ea5bcc148e69b6824777ec9e35ca949"
+    },
+    {
+      "id": "169056fr",
+      "organisme": "CNIL",
+      "titre": "Ordre du jour de la séance plénière du 15 octobre 2026",
+      "url": "https://www.cnil.fr/fr/ordre-du-jour-de-la-seance-pleniere-du-15-octobre-2026",
+      "description": "La Commission nationale de l'informatique et des libertés s’est réunie le jeudi 15 octobre 2026 à 9&amp;nbsp;h&amp;nbsp;30 avec l’ordre du jour suivant&amp;nbsp;:",
+      "date_publication": "Thu, 15 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.367Z",
+      "statut": "INCHANGE",
+      "empreinte": "4b4e362304462a26da01e73b8b44b4f3586817b797e436f72bf2f3d2c49ad759"
+    },
+    {
+      "id": "169029fr",
+      "organisme": "CNIL",
+      "titre": "Clôture de l’injonction prononcée à l’encontre de GOOGLE",
+      "url": "https://www.cnil.fr/fr/cloture-injonction-google",
+      "description": "Par décision du 23 septembre 2026, la formation restreinte de la CNIL a clos l’injonction prononcée le 1er septembre 2025 à l’encontre des sociétés GOOGLE LLC et GOOGLE IRELAND LIMITED.",
+      "date_publication": "Wed, 14 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.368Z",
+      "statut": "INCHANGE",
+      "empreinte": "341c31c9dfafb9eb0b9f85128f558cefc6ea98c6af9ff38d2638cc0223bce2d2"
+    },
+    {
+      "id": "169041fr",
+      "organisme": "CNIL",
+      "titre": "Le CEPD publie une déclaration sur les enjeux de protection des données liés aux lunettes connectées",
+      "url": "https://www.cnil.fr/fr/cepd-declaration-lunettes-connectees",
+      "description": "Lors de sa dernière plénière, le CEPD a adopté une déclaration sur les lunettes connectées et publié le rapport intitulé « Le regard connecté. Une sociologie des usages et des défis liés aux lunettes connectées », élaboré dans le cadre du programme de réserve d’experts (Support Pool of Expert).",
+      "date_publication": "Tue, 13 Oct 2026 14:00:00 +0200",
+      "date_collecte": "2026-10-29T11:09:11.368Z",
+      "statut": "INCHANGE",
+      "empreinte": "f893d63213d0e3516bfd42b91fc5fc779f23e15b7aa8bde135e23e8cf2ca97d4"
+    }
+  ]
+}
